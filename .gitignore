@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 .DS_Store
+
+# Jupyter junk
+.ipynb_checkpoints/
+.virtual_documents/
+Untitled.ipynb
